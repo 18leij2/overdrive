@@ -1,6 +1,6 @@
 # Overdrive
 
-This is a submission for the CS2261 final project assignment. It is a single player, side scrolling hack and slash game. This project combines a variety of concepts for Mode 0 on the GBA, including scrolling backgrounds, audio, sprites, and animations. Further details on the game mechanics, controls, and game summary can be found at the top of the `main.c` file [here](./OverdriveProject/main.c).
+This is a submission for the CS2261 final project assignment. It is a single player, side scrolling hack and slash game. This project combines a variety of concepts for Mode 0 on the GBA, including scrolling backgrounds, audio, sprites, and animations. Further details on the game mechanics, controls, and game summary can be found at the top of the `main.c` file [here](./OverdriveProject/main.c). A dedicated instruction screen is also provided within the game itself.
 
 ## Project Setup
 This game was developed for the GBA. To run the game on a Mac or Windows device, the [mGBA emulator](https://mgba.io/) must first be installed. Then, download or clone the repository. Open the emulator, select `File > Load ROM`, and open the `Overdrive.zip` file. Alternatively, opening the `Project.gba` file in the `OverdriveProject` folder through the emulator will also work.
